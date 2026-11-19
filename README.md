@@ -1,10 +1,4 @@
 
-<!-- ================= PROFILE BANNER ================= -->
-
-<p align="center">
-  <img src="github-banner.png" width="100%" alt="Sreeza Bhowmick - Mathematics and Computer Science" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Sreeza Bhowmick</h1>
 
 <h3 align="center">
