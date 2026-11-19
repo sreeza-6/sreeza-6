@@ -40,10 +40,11 @@
 </p>
 
 ### Tools & Technologies
-
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,devc++&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 </p>
+
+- 💻 Dev-C++
 
 ### Areas of Interest
 
