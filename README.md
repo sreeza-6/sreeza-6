@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sreeza Bhowmick</h1>
 
-<h3 align="center">Mathematics × Computer Science × Intelligent Technology</h3>
+<h3 align="center">Mathematics × Computer Science</h3>
 
 <p align="center">
   Mathematics Graduate | B.Tech CSE Student | AI & ML Enthusiast
@@ -26,18 +26,7 @@
 - **Computer Science:** Data Structures, Algorithmic Graph Theory, Graph Algorithms, DBMS
 - **Mathematics:** Linear Algebra, Statistics, Probability
 - **AI & ML:** Machine Learning, Data Mining, Data Visualization
-- **Tools:** VS Code, Dev-C++, Jupyter Notebook
-
----
-
-### 🚀 Projects
-
-- 🎨 Six-Color Graph Coloring
-- 🧩 CYK Algorithm Implementation
-- 🔍 Lexical Analyzer in C
-- 📐 Chromatic Polynomial
-- 🌸 Iris Classification using Random Forest
-- 🚗 Car Price Prediction
+- **Tools:** VS Code, Dev-C++
 
 ---
 
