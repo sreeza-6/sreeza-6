@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Sreeza Bhowmick</h1>
 
 <h3 align="center">
-  Mathematics × Computer Science × Intelligent Technology
+  Mathematics × Computer Science
 </h3>
 
 <p align="center">
