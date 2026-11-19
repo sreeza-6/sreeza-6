@@ -1,12 +1,14 @@
+
+<!-- ================= PROFILE BANNER ================= -->
+
 <p align="center">
-  <img src="github-banner.png" width="100%" />
+  <img src="github-banner.png" width="100%" alt="Sreeza Bhowmick - Mathematics and Computer Science" />
 </p>
-<!-- PROFILE HEADER -->
 
 <h1 align="center">Hi 👋, I'm Sreeza Bhowmick</h1>
 
 <h3 align="center">
-  Mathematics × Computer Science 
+  Mathematics × Computer Science × Intelligent Technology
 </h3>
 
 <p align="center">
@@ -42,7 +44,8 @@
 </p>
 
 ### Tools & Technologies
-<p align="center">
+
+<p>
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
   <img src="https://img.shields.io/badge/Dev--C++-IDE-8B5CF6?style=flat&logo=codeblocks&logoColor=white" />
 </p>
@@ -68,12 +71,11 @@
 
 ---
 
----
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sreeza-6&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sreeza-6&show_icons=true&theme=midnight-purple&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeza-6&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
