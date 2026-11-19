@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sreeza Bhowmick</h1>
 
 <h3 align="center">
-  Mathematics × Computer Science × Intelligent Technology
+  Mathematics × Computer Science 
 </h3>
 
 <p align="center">
@@ -42,7 +42,7 @@
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,devc++&theme=dark" />
 </p>
 
 ### Areas of Interest
@@ -65,18 +65,6 @@
 - 🔢 Mathematical Applications in Computing
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description | Technology |
-|---|---|---|
-| Six-Color Graph Coloring | Planar graph coloring | C |
-| Chromatic Polynomial | Graph theory and combinatorics | C |
-| CYK Algorithm | Context-free grammar parsing | C |
-| Iris Classification | Flower species classification | C / Python* |
-| Car Price Prediction | Machine learning regression | Python |
-
-*Update the language to match the actual implementation of each project.*
 
 ---
 
